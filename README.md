@@ -1,8 +1,8 @@
-- Hi 👋, I'm Forrest
+- Hi 👋, I'm Forrest -- https://fdunlap.com
 
-- 🔭 I’m currently working on Android @ Google.
+- Ex-Google, Ex-Amazon
 
-- 🌱 Outside of work, I’m currently learning Angular, GRPC, TypeScript, and Jetpack.
+- I've got some hot takes ama.
 
 - 💬 Ask me about Android, Google, Python, and more!
 
