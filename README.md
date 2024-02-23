@@ -1,5 +1,7 @@
 - Hi 👋, I'm Forrest -- https://fdunlap.com
 
+- Currently working on making mobile releases better @ [Runway](https://runway.team)
+
 - Ex-Google, Ex-Amazon
 
 - I've got some hot takes ama.
